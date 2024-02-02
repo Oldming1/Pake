@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "cloud",
-      "title": "ProgramMusic",
+      "title": "oldming_cloud",
       "name_zh": "oldming云盘",
       "url": "https://cloud.oldming.top/"
     }
